@@ -1,0 +1,8 @@
+pip install tweepy
+pip install pandas
+pip install nltk
+pip install textblob
+pip install demoji
+pip install spacy
+pip install gensim
+
