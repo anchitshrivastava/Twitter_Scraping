@@ -56,7 +56,7 @@ def tokenize(text):
     # tokens = tokens.strip("'")  # TESTING THIS LINE
     # tokens = tokens.strip(".")  # TESTING THIS LINE
 
-    tokens = tokens.split()  # Make text lowercase and split it
+    tokens = text.split()  # Make text lowercase and split it
 
     return tokens
 
