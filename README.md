@@ -1,5 +1,5 @@
 # Twitter_Scraping
-credentials.py contains the API key and secret
+credentials.py contains the API key and secret <br>
 main.py contains the script for retrieving tweets from a user and/or on a topic
 elonmusktweets.py is the script that I used to extract Elon Musk's tweets
 datacleaning.py performs basic data cleaning on the data set
